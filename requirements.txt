@@ -6,3 +6,8 @@ sqlalchemy
 pymysql
 jupyter
 scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+mlflow
+optuna
